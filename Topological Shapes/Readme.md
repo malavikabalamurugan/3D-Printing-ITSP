@@ -1,1 +1,1 @@
-
+This folder contains 3D projections/models of topological shapes like the teseract, Klein bottle and Möbius strip. The .stl files can be directly viewed online. The folders also contains images and downloadable fusion 360 files that can be edited.
