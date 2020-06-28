@@ -1,1 +1,1 @@
-This folder contains mathematically accurate, constant probability surfaces of the wavefunctions of a one-electron hydrogen atom.
+This folder contains mathematically accurate, constant probability surfaces of the wavefunctions of a one-electron hydrogen atom, along with the python code that was used to sketch them on Fusion 360.
